@@ -11,9 +11,9 @@ In this project, I have built a dashboard with the skills that I learned in my D
 [Interactive Dashboard and How it Works](https://youtu.be/rHhaPf0YKjc)
 
 <h2>Utilities Used</h2>
-
-- <b>Tableau </b> 
--<b> Tableau Prep Builder </b>
+-<b>Tableau </b> 
+<br/>
+-<b>Tableau Prep Builder </b>
 
 <h2>Skills Used </h2>
 
@@ -29,10 +29,10 @@ In this project, I have built a dashboard with the skills that I learned in my D
 - <b>Trendline </b>
 
 
-<h2>Identify the Version and Build of a Windows System:</h2>
+<h2>Image of The Dashboard:</h2>
 
 <p align="center">
-Image of The Dashboard
+
 <br/>
 <br />
 <img src="https://i.imgur.com/XY608F7.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
